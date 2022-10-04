@@ -12,6 +12,7 @@ check_dirs="trunk/user/scutclient/scripts \
 	trunk/user/vlmcsd \
 	trunk/user/aria2 \
 	trunk/user/openssh \
+	trunk/user/aliddns \
 	trunk/user/scripts"
 
 exs="SC2166,SC2164,SC2174,SC2039"
